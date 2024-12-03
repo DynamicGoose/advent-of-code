@@ -17,6 +17,7 @@ fn main() {
 }
 
 fn part_one(mut list_1: Vec<u32>, mut list_2: Vec<u32>) {
+    // sort so we can compare the elements in ascending order
     list_1.sort_unstable();
     list_2.sort_unstable();
 
