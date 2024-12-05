@@ -1,6 +1,6 @@
 with import <nixpkgs> {};
-
-mkShell {
-  nativeBuildInputs = [libgcc pkg-config];
-  buildInputs = [glibc libgcc];
+clangStdenv.mkDerivation {
+  name = "clang-nix-shell";
+  nativeBuildInputs = [clang-tools];
+  buildInputs = [ /* add libraries here */ ];
 }
