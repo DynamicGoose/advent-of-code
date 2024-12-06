@@ -39,7 +39,7 @@ function Diagonal(input)
     return total
 end
 
-local input = ReadFile("input.txt")
+local input = ReadFile("../inputs/04.txt")
 local occurences = Diagonal(input)
 
 print(occurences)

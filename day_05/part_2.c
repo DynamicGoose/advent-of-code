@@ -106,7 +106,7 @@ int main() {
                 if (!swapped) break;
             }
         }
-        if (is_sorted)
+        if (is_sorted == 0)
             result += page_updates[i][idx];
     }
     printf("%d\n", result);

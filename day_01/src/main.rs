@@ -1,7 +1,7 @@
 use std::fs::read_to_string;
 
 fn main() {
-    let input = read_to_string("input.txt").unwrap();
+    let input = read_to_string("../inputs/01.txt").unwrap();
     let mut list_1: Vec<u32> = vec![];
     let mut list_2: Vec<u32> = vec![];
 
