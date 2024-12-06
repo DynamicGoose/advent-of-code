@@ -8,7 +8,7 @@ def save(report):
     if asc_desc and safe_diffs:
         return True
 
-file = open("input.txt")
+file = open("../inputs/02.txt")
 input_lines = file.readlines()
 file.close()
 

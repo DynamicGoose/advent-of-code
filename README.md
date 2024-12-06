@@ -17,9 +17,12 @@ Here is a list of languages I would like to use during Advent of Code:
 - [x] Python 
 - [ ] Haskell
 - [ ] Clojure
-- [ ] C
+- [x] C
 - [x] Lua
 - [ ] Assembly (we will see if I want to do this to myself xD)
 - [ ] Scala
 - [ ] Bash
 - [ ] JavaScript (maybe, don't really enjoy this language tbh)
+
+> [!IMPORTANT]
+> If you want to try out my solutions, you will have to add an `inputs` folder to the root directory with the input for each day named 01.txt, 02.txt, etc..

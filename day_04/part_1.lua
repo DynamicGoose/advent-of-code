@@ -103,7 +103,7 @@ function Diagonal(lines)
 end
 
 -- reading input
-local input = ReadFile("input.txt")
+local input = ReadFile("../inputs/04.txt")
 local occurences = Horizontal(input) + Vertical(input) + Diagonal(input) -- horizontal + vertical + diagonal occurences
 
 print(occurences)

@@ -1,6 +1,6 @@
 from re import findall
 
-file = open("input.txt")
+file = open("../inputs/03.txt")
 input = file.read()
 file.close()
 
