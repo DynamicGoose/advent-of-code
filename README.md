@@ -20,7 +20,7 @@ Here is a list of languages I would like to use during Advent of Code:
 - [x] C
 - [x] Lua
 - [ ] Assembly (we will see if I want to do this to myself xD)
-- [ ] Scala
+- [x] Scala
 - [ ] Bash
 - [ ] JavaScript (maybe, don't really enjoy this language tbh)
 
