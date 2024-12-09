@@ -22,6 +22,7 @@ Here is a list of languages I would like to use during Advent of Code:
 - [ ] Assembly (we will see if I want to do this to myself xD)
 - [x] Scala
 - [ ] Bash
+- [ ] Nim
 - [ ] JavaScript (maybe, don't really enjoy this language tbh)
 
 > [!IMPORTANT]
