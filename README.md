@@ -9,6 +9,8 @@ These are my solutions to [advent of code 2024](https://adventofcode.com/2024).
 I will use some different languages over the month. Some that I already know, but also some new ones I've wanted to learn.
 Feel free to have a look around the solutions if you are interested!
 
+Sadly, I could not finish this, beause I got sick.
+
 ## Languages
 
 Here is a list of languages I would like to use during Advent of Code:
